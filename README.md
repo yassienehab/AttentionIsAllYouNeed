@@ -4,10 +4,10 @@ This notebook builds a basic Encoder-Decoder variant of the Transformer architec
 
 Steps :
 
-Preparing the data
+1- Preparing the data
 
-Building the Transformer
+2- Building the Transformer
 
-Training the Transformer
+3- Training the Transformer
 
-Testing the Transformer
+4- Testing the Transformer
